@@ -13,7 +13,7 @@ unittests.db
 # Airflow temporary artifacts
 airflow/git_version
 airflow/www/static/coverage/
-airflow/www/static/dist
+#qp msairflow/www/static/dist
 airflow/www_rbac/static/coverage/
 airflow/www_rbac/static/dist/
 
@@ -34,7 +34,7 @@ __pycache__/
 env/
 build/
 develop-eggs/
-dist/
+#dist/
 downloads/
 eggs/
 .eggs/
